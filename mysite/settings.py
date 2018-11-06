@@ -25,7 +25,7 @@ SECRET_KEY = '*($*hd*^bij1ujsoz_p+f2p^s237ue*bj(+q+vltrl09y_yd0k'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [ibar.pythonanywhere.com]
 
 
 # Application definition
