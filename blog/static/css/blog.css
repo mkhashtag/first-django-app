@@ -59,6 +59,10 @@ div.post a.btn {
     margin-left: 10px;
 }
 
+div.post p {
+    margin-top: 20px;
+}
+
 .comment {
     margin: 20px 0px 20px 20px;
 }
